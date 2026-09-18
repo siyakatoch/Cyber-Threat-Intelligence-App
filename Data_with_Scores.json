@@ -1,0 +1,794 @@
+[
+  {
+    "CVE ID": "CVE-2026-21533",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2026-21513",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-62215",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 7.8,
+    "Impact": 5.87,
+    "Exploitability": 1.83
+  },
+  {
+    "CVE ID": "CVE-2025-32709",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 7.8,
+    "Impact": 5.87,
+    "Exploitability": 1.83
+  },
+  {
+    "CVE ID": "CVE-2025-32706",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 7.8,
+    "Impact": 5.87,
+    "Exploitability": 1.83
+  },
+  {
+    "CVE ID": "CVE-2025-29824",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 7.8,
+    "Impact": 5.87,
+    "Exploitability": 1.83
+  },
+  {
+    "CVE ID": "CVE-2025-26633",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-24993",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-24983",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-24054",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 8.6,
+    "Impact": 3.99,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2018-8639",
+    "Vendor / Project": "Microsoft",
+    "Product": "Windows",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-53770",
+    "Vendor / Project": "Microsoft",
+    "Product": "SharePoint",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-49704",
+    "Vendor / Project": "Microsoft",
+    "Product": "SharePoint",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2024-43468",
+    "Vendor / Project": "Microsoft",
+    "Product": "Configuration Manager",
+    "Base": 10.0,
+    "Impact": 6.05,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2026-20127",
+    "Vendor / Project": "Cisco",
+    "Product": "Catalyst SD-WAN Controller and Manager",
+    "Base": 10.0,
+    "Impact": 6.05,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-20362",
+    "Vendor / Project": "Cisco",
+    "Product": "Secure Firewall ASA and FTD",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-20333",
+    "Vendor / Project": "Cisco",
+    "Product": "Secure Firewall ASA and FTD",
+    "Base": 7.2,
+    "Impact": 5.87,
+    "Exploitability": 1.23
+  },
+  {
+    "CVE ID": "CVE-2025-20352",
+    "Vendor / Project": "Cisco",
+    "Product": "IOS and IOS XE",
+    "Base": 9.9,
+    "Impact": 6.05,
+    "Exploitability": 3.11
+  },
+  {
+    "CVE ID": "CVE-2026-20045",
+    "Vendor / Project": "Cisco",
+    "Product": "Unified Communications Manager",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-20337",
+    "Vendor / Project": "Cisco",
+    "Product": "Identity Services Engine",
+    "Base": 9.8,
+    "Impact": 5.76,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-20281",
+    "Vendor / Project": "Cisco",
+    "Product": "Identity Services Engine",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2024-20439",
+    "Vendor / Project": "Cisco",
+    "Product": "Smart Licensing Utility",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2023-20118",
+    "Vendor / Project": "Cisco",
+    "Product": "Small Business RV Series Routers",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2026-24858",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiAnalyzer, FortiManager, FortiOS, FortiProxy",
+    "Base": 6.5,
+    "Impact": 3.6,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-32756",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiFone, FortiVoice, FortiNDR, FortiMail",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-59718",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiOS, FortiProxy, FortiWeb",
+    "Base": 10.0,
+    "Impact": 5.76,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-58034",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiWeb",
+    "Base": 8.8,
+    "Impact": 5.87,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-25257",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiWeb",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2025-24472",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiOS and FortiProxy",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2019-6693",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiOS",
+    "Base": 6.5,
+    "Impact": 3.6,
+    "Exploitability": 2.84
+  },
+  {
+    "CVE ID": "CVE-2025-64446",
+    "Vendor / Project": "Fortinet",
+    "Product": "FortiWeb",
+    "Base": 9.8,
+    "Impact": 5.87,
+    "Exploitability": 3.89
+  },
+  {
+    "CVE ID": "CVE-2026-1603",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager (EPM)",
+    "Base": 8.6,
+    "Impact": 4.0,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2026-1281",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager Mobile (EPMM)",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-4428",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager Mobile (EPMM)",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-4427",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager Mobile (EPMM)",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-13161",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager (EPM)",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-13160",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager (EPM)",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-13159",
+    "Vendor / Project": "Ivanti",
+    "Product": "Endpoint Manager (EPM)",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-21590",
+    "Vendor / Project": "Juniper",
+    "Product": "Junos OS",
+    "Base": 6.7,
+    "Impact": "N/A",
+    "Exploitability": "~5.0"
+  },
+  {
+    "CVE ID": "CVE-2015-7755",
+    "Vendor / Project": "Juniper",
+    "Product": "ScreenOS",
+    "Base": 10.0,
+    "Impact": 10.0,
+    "Exploitability": 10
+  },
+  {
+    "CVE ID": "CVE-2026-3055",
+    "Vendor / Project": "Citrix",
+    "Product": "NetScaler ADC and Gateway",
+    "Base": 9.3,
+    "Impact": "N/A",
+    "Exploitability": "~9.0"
+  },
+  {
+    "CVE ID": "CVE-2025-5777",
+    "Vendor / Project": "Citrix",
+    "Product": "NetScaler ADC and Gateway",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-7775",
+    "Vendor / Project": "Citrix",
+    "Product": "NetScaler",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-6543",
+    "Vendor / Project": "Citrix",
+    "Product": "NetScaler ADC and Gateway",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-8068",
+    "Vendor / Project": "Citrix",
+    "Product": "Session Recording",
+    "Base": 8.0,
+    "Impact": 5.9,
+    "Exploitability": 2.1
+  },
+  {
+    "CVE ID": "CVE-2024-8069",
+    "Vendor / Project": "Citrix",
+    "Product": "Session Recording",
+    "Base": 8.0,
+    "Impact": 5.9,
+    "Exploitability": 2.1
+  },
+  {
+    "CVE ID": "CVE-2025-22225",
+    "Vendor / Project": "VMware",
+    "Product": "ESXi",
+    "Base": 8.2,
+    "Impact": 6.0,
+    "Exploitability": 1.5
+  },
+  {
+    "CVE ID": "CVE-2025-22224",
+    "Vendor / Project": "VMware",
+    "Product": "ESXi and Workstation",
+    "Base": 8.2,
+    "Impact": 6.0,
+    "Exploitability": 1.5
+  },
+  {
+    "CVE ID": "CVE-2025-22226",
+    "Vendor / Project": "VMware",
+    "Product": "ESXi, Workstation, and Fusion",
+    "Base": 8.2,
+    "Impact": 6.0,
+    "Exploitability": 1.5
+  },
+  {
+    "CVE ID": "CVE-2024-37079",
+    "Vendor / Project": "Broadcom",
+    "Product": "VMware vCenter Server",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-1976",
+    "Vendor / Project": "Broadcom",
+    "Product": "Brocade Fabric OS",
+    "Base": 6.7,
+    "Impact": 5.9,
+    "Exploitability": 0.8
+  },
+  {
+    "CVE ID": "CVE-2025-26399",
+    "Vendor / Project": "SolarWinds",
+    "Product": "Web Help Desk",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-40536",
+    "Vendor / Project": "SolarWinds",
+    "Product": "Web Help Desk",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-40551",
+    "Vendor / Project": "SolarWinds",
+    "Product": "Web Help Desk",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-31324",
+    "Vendor / Project": "SAP",
+    "Product": "NetWeaver",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-42999",
+    "Vendor / Project": "SAP",
+    "Product": "NetWeaver",
+    "Base": 9.1,
+    "Impact": 6.0,
+    "Exploitability": 2.3
+  },
+  {
+    "CVE ID": "CVE-2017-12637",
+    "Vendor / Project": "SAP",
+    "Product": "NetWeaver",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2018-14634",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2025-38352",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 7.4,
+    "Impact": 5.9,
+    "Exploitability": 1.4
+  },
+  {
+    "CVE ID": "CVE-2024-50302",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 5.5,
+    "Impact": 3.6,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2024-53150",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 7.1,
+    "Impact": 5.2,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2024-53197",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2021-22555",
+    "Vendor / Project": "Linux",
+    "Product": "Kernel",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2026-5281",
+    "Vendor / Project": "Google",
+    "Product": "Dawn (Chrome/Chromium)",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2026-2441",
+    "Vendor / Project": "Google",
+    "Product": "Chromium",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-13223",
+    "Vendor / Project": "Google",
+    "Product": "Chromium V8",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-10585",
+    "Vendor / Project": "Google",
+    "Product": "Chromium V8",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-6558",
+    "Vendor / Project": "Google",
+    "Product": "Chromium",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-5419",
+    "Vendor / Project": "Google",
+    "Product": "Chromium V8",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-6554",
+    "Vendor / Project": "Google",
+    "Product": "Chromium V8",
+    "Base": 8.1,
+    "Impact": 5.2,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-2783",
+    "Vendor / Project": "Google",
+    "Product": "Chromium Mojo",
+    "Base": 8.3,
+    "Impact": 6.0,
+    "Exploitability": 1.6
+  },
+  {
+    "CVE ID": "CVE-2026-20700",
+    "Vendor / Project": "Apple",
+    "Product": "Multiple Products",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2025-31201",
+    "Vendor / Project": "Apple",
+    "Product": "Multiple Products",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-31200",
+    "Vendor / Project": "Apple",
+    "Product": "Multiple Products",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-24201",
+    "Vendor / Project": "Apple",
+    "Product": "Multiple Products",
+    "Base": 10.0,
+    "Impact": 6.0,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-43529",
+    "Vendor / Project": "Apple",
+    "Product": "Multiple Products",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2026-1731",
+    "Vendor / Project": "BeyondTrust",
+    "Product": "Remote Support and Privileged Remote Access",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-21479",
+    "Vendor / Project": "Qualcomm",
+    "Product": "Multiple Chipsets",
+    "Base": 8.6,
+    "Impact": 6.0,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2025-21480",
+    "Vendor / Project": "Qualcomm",
+    "Product": "Multiple Chipsets",
+    "Base": 8.6,
+    "Impact": 6.0,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2025-27038",
+    "Vendor / Project": "Qualcomm",
+    "Product": "Multiple Chipsets",
+    "Base": 7.5,
+    "Impact": 5.9,
+    "Exploitability": 1.6
+  },
+  {
+    "CVE ID": "CVE-2025-61884",
+    "Vendor / Project": "Oracle",
+    "Product": "E-Business Suite",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-61882",
+    "Vendor / Project": "Oracle",
+    "Product": "E-Business Suite",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-61757",
+    "Vendor / Project": "Oracle",
+    "Product": "Fusion Middleware",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-20953",
+    "Vendor / Project": "Oracle",
+    "Product": "Agile PLM",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-32433",
+    "Vendor / Project": "Erlang",
+    "Product": "Erlang/OTP",
+    "Base": 10.0,
+    "Impact": 6.0,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-38475",
+    "Vendor / Project": "Apache",
+    "Product": "HTTP Server",
+    "Base": 9.1,
+    "Impact": 5.2,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-24813",
+    "Vendor / Project": "Apache",
+    "Product": "Tomcat",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-31161",
+    "Vendor / Project": "CrushFTP",
+    "Product": "CrushFTP",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-34028",
+    "Vendor / Project": "Commvault",
+    "Product": "Command Center",
+    "Base": 10.0,
+    "Impact": 6.0,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-3928",
+    "Vendor / Project": "Commvault",
+    "Product": "Web Server",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-10035",
+    "Vendor / Project": "Fortra",
+    "Product": "GoAnywhere MFT",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-48248",
+    "Vendor / Project": "NAKIVO",
+    "Product": "Backup and Replication",
+    "Base": 8.6,
+    "Impact": 4.0,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2024-4885",
+    "Vendor / Project": "Progress",
+    "Product": "WhatsUp Gold",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-48543",
+    "Vendor / Project": "Android",
+    "Product": "Runtime",
+    "Base": 8.8,
+    "Impact": 6.0,
+    "Exploitability": 2
+  },
+  {
+    "CVE ID": "CVE-2025-48572",
+    "Vendor / Project": "Android",
+    "Product": "Framework",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2025-32463",
+    "Vendor / Project": "Sudo",
+    "Product": "Sudo",
+    "Base": 7.8,
+    "Impact": 5.9,
+    "Exploitability": 1.8
+  },
+  {
+    "CVE ID": "CVE-2014-6278",
+    "Vendor / Project": "GNU",
+    "Product": "GNU Bash",
+    "Base": 8.8,
+    "Impact": 5.9,
+    "Exploitability": 2.8
+  },
+  {
+    "CVE ID": "CVE-2025-34026",
+    "Vendor / Project": "Versa",
+    "Product": "Concerto",
+    "Base": 7.5,
+    "Impact": 3.6,
+    "Exploitability": 3.9
+  },
+  {
+    "CVE ID": "CVE-2025-30406",
+    "Vendor / Project": "Gladinet",
+    "Product": "CentreStack",
+    "Base": 9.8,
+    "Impact": 5.9,
+    "Exploitability": 3.9
+  }
+]
